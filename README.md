@@ -11,3 +11,11 @@ Dataset Link: https://drive.google.com/file/d/1eytbwaLQBv12psV8I-aMkIli9N3bf8nO/
 
 [resnet_focal_loss](https://drive.google.com/open?id=1Wzon8d5xwgqq3zdQqcK7ZsgQUTeg6Buv)
 
+[VGG16_FC](https://drive.google.com/open?id=1km5QcV0BKQTBX-jvmjGxxF51Gxj0w9CI)
+
+[VGG16_entire](https://drive.google.com/open?id=1-7pw-rj3jG0c7XHn0_Wxy4Fz-Ad7onKQ)
+
+[resnet18_FC](https://drive.google.com/open?id=18q38tzMHD2xJaWlBH31NoeDQlU2QuhcP)
+
+[resnet18_entire](https://drive.google.com/open?id=1Wzon8d5xwgqq3zdQqcK7ZsgQUTeg6Buv)
+
